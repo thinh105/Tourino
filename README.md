@@ -1,10 +1,10 @@
-# Tourino
+# ✨A fullstack Travel Agency Website Project powered by NodeJS, Express, MongoDb, Vue.✨
+
 
 <p align="center">
 <img src="Tourino-banner.png" />
 </p>
 
-✨A fullstack Travel Agency Website Project powered by NodeJS, Express, MongoDb, Vue.✨
 
 <p align="center">
 <img src="tourino-diagram.png" />
