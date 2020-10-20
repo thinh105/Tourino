@@ -5,7 +5,7 @@
 <img src="Tourino-banner.png" />
 </p>
 
-✨A fullstack Travel Agency Website Project powered by NodeJS, Express, MongoDb, Vue.✨
+✨A fullstack Travel Agency Website Project powered by NodeJS, Express, MongoDB, Vue.✨
 
 <p align="center">
 <img src="tourino-diagram.png" />
