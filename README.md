@@ -1,6 +1,3 @@
-
-
-
 <p align="center">
 <img src="Tourino-banner.png" />
 </p>
